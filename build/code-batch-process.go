@@ -3,6 +3,8 @@
 
 //go:build ignore
 
+// Something something
+
 package main
 
 import (
